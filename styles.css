@@ -1,0 +1,40 @@
+body{
+height:1410px;
+background-color: red;
+}
+.car{
+	width:600px;
+	height: 400px;
+	margin-left:350px;
+    position: relative;
+    left:30px;
+    top:30px;
+}
+.jerry{
+	width:70px;
+	height:70px;
+	margin-left:0px;
+	position: fixed;
+	top:80px;
+}
+.dog{
+	width:150px;
+	height:150px;
+	margin-left:620px;
+	position: fixed;
+	top:10px;
+}
+.tom{
+	width:200px;
+	height:200px;
+	margin-left:1100px;
+	position: fixed;
+	top:130px;
+}
+.train{
+	width:600px;
+	height: 400px;
+	margin-left:430px;
+    position: relative;
+    top:730px;
+}
